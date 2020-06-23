@@ -23,5 +23,5 @@
 ### Para deixar o servidor rodando com NPM
 1. `npm start` --> Inicia em modo de produção
 
-### Para deixar o servidor rodando para o frontend e testes usando uma suite REST com Yarn
+### Para deixar o servidor rodando com Yarn
 1. `yarn start` --> Inicia em modo de produção
